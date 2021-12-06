@@ -2,7 +2,7 @@
 Example on how to have Nuxt project with components installable to other projects.
 
 If you don't want to publish your modules, add repository as dependency this way:
-"sazkabet-template": "git+ssh://git@bitbucket.org:isobarczechrepublic/sazkabet-template.git",
+"sazkabet-template": "git+ssh://git@github.com:krftcz/nuxt-node-modules-components.git",
 
 Everytime you update source repository, you have to install it again on all repositories using source repository to force update.
 
